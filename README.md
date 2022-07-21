@@ -43,5 +43,5 @@ Visitor count:
 
 <h3 align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=crisaraoz&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=crisaraoz&show_icons=true&theme=tokyonight)
 </h3>
