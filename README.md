@@ -1,9 +1,11 @@
 <h1 align="Center">  Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Cris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
-- 🧔🏻 I'm 30 years old and I'm from Buenos Aires, Argentina.
-- 🎓 I graduated as a System Analyst.
+- 🧔🏻 I'm 30 years old.
+- 🎓 I graduated as a System Analyst and I'm an enthusiastic developer.
 - 🌐 Checkout my [Portfolio](link) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cristian-araoz-b1429941/) or [E-Mail](mailto:araozcristian@gmail.com).
+
+Thanks for visiting my page!
 
 <h3 align="center">
 
