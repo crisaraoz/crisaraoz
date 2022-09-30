@@ -1,7 +1,7 @@
 <h1 align="Center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Hey! I'm Cris <br/><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="80px"></h1>
 
 - 🧔🏻 I'm 31 years old.
-- 🎓 I graduated as a System Analyst and I'm an enthusiastic developer.
+- 🎓 I graduated as a System Analyst and I'm an enthusiastic web developer.
 - 🌐 Checkout my [Portfolio](https://crisaraoz.github.io/portfolioCA/) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cristian-araoz-b1429941/) or [E-Mail](mailto:araozcristian@gmail.com).
 
