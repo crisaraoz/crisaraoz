@@ -1,4 +1,4 @@
-<h1 align="Center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Hey! I'm Cris <br/><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="80px"></h1>
+<h1 align="Center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Hey there! I'm Cris <br/><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="80px"></h1>
 
 - 🧔🏻 I'm 31 years old.
 - 🎓 I graduated as a System Analyst and I'm an enthusiastic web developer.
