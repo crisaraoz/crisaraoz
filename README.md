@@ -5,7 +5,7 @@
 - 🌐 Checkout my [Portfolio](https://crisaraoz.github.io/portfolioCA/) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cristian-araoz-b1429941/) or [E-Mail](mailto:araozcristian@gmail.com).
 
-Thanks for visiting my page!
+Thanks for visiting my page!!
 
 <h3 align="center">
 
