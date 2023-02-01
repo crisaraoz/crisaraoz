@@ -3,7 +3,7 @@
 - 🧔🏻 I'm 31 years old.
 - 🎓 I graduated as a System Analyst and I'm an enthusiastic web developer.
 - 🌐 Checkout my [Portfolio](https://crisaraoz.github.io/portfolioCA/) to find out more about me and my projects.
-- 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cristian-araoz-b1429941/) or [E-Mail](mailto:araozcristian@gmail.com).
+- 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cris-araoz/) or [E-Mail](mailto:araozcristian@gmail.com).
 
 Thanks for visiting my page!!
 
