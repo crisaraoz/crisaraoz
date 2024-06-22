@@ -2,7 +2,7 @@
 
 - 📍  Based in Buenos Aires, Argentina
 - 🎓 I graduated as a System Analyst and I'm an enthusiastic web developer.
-- 🌐 Checkout my [Portfolio](https://portfolio-ca-beta.vercel.app/) to find out more about me and my projects.
+- 🌐 Checkout my [Portfolio](https://cristian-araoz-fr-porfolio.vercel.app/) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cris-araoz/) or [E-Mail](mailto:araozcristian@gmail.com).
 
 Thanks for visiting my page!!
