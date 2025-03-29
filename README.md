@@ -1,7 +1,7 @@
 <h1 align="Center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> Hey there! I'm Cris <br/><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="80px"></h1>
 
 - 📍  Based in Buenos Aires, Argentina
-- 🎓 I graduated as a System Analyst and I'm an enthusiastic web developer.
+- 🎓 I graduated as a System Analyst and I'm an enthusiastic software developer.
 - 🌐 Checkout my [Portfolio](https://cristian-araoz-fr-porfolio.vercel.app/) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cris-araoz/) or [E-Mail](mailto:araozcristian@gmail.com).
 
