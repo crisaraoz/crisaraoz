@@ -23,8 +23,8 @@ Visitor count:
 
 - <h3>⚙️ Backend:</h3>
   
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://user-images.githubusercontent.com/58083159/144486094-07973bf6-35c0-4a05-98d7-7a2737643a6d.png" alt="spring" width="60">](https://spring.io/) 
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/)
+|---|---|---|
 
 - <h3>🛢 Databases:</h3>
 
