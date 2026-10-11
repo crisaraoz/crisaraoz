@@ -5,15 +5,6 @@
 - 🌐 Checkout my [Portfolio](https://cristian-araoz-fr-porfolio.vercel.app/) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/cris-araoz/) or [E-Mail](mailto:araozcristian@gmail.com).
 
-Thanks for visiting my page!!
-
-<h3 align="center">
-
-Visitor count:
-
-  <img src="https://profile-counter.glitch.me/crisaraoz/count.svg" />
-</h3>
-
 ## 🖥️ Languages and Tools I've worked with:
 
 - <h3>👀 Frontend:</h3>
